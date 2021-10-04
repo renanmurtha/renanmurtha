@@ -22,11 +22,13 @@ Acho que isso é tudo, até mais, <br>
 
 "Live long and prosper." - Commander Spock 
 ##
+
 <div align="center">
   <a href="https://github.com/renanmurtha">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renanmurtha&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmurtha&layout=compact&langs_count=7&theme=calm"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=renanmurtha&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmurtha&layout=compact&langs_count=7&theme=darcula"/>
 </div>
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="renan_php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">  
   <img align="center" alt="renan_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -40,7 +42,7 @@ Acho que isso é tudo, até mais, <br>
   <img align="center" alt="renan_android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
   <img align="center" alt="renan_sharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/yzZdQom.gif">
+  <!-- <img align="right" alt="pic" height="140" style="border-radius:50px;" src="https://i.imgur.com/yzZdQom.gif"> -->
  
 </div>
   
