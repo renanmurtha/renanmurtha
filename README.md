@@ -24,8 +24,8 @@ Acho que isso é tudo, até mais, <br>
 ##
 <div align="center">
   <a href="https://github.com/renanmurtha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanmurtha&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmurtha&layout=compact&langs_count=7&theme=calm"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=renanmurtha&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmurtha&layout=compact&langs_count=7&theme=calm"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="renan_php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">  
