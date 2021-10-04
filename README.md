@@ -23,9 +23,10 @@
   
   ##
  
-<div>   
-  <a href = "https://gitlab.com/renan.murtha" target="_blank"><img src="https://img.shields.io/badge/-gitlab-191970?style=for-the-badge&logo=gitlab&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/renan-murtha-54737184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
+  <a href="https://www.linkedin.com/in/renan-murtha-54737184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  <a href = "https://gitlab.com/renan.murtha" target="_blank"><img src="https://img.shields.io/badge/-gitlab-191970?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"/></a> 
   
   <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
