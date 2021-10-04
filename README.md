@@ -1,4 +1,27 @@
-## Oiii! Eu sou o Renan Murtha
+##  ~$ sudo apt-get install Kobayashi-Maru 
+
+Em horario comercial:
+- Desenvolvedor de sistemas da informação
+
+Nas horas vagas:
+- Estudante de tecnologia de banco de dados
+- Aprendiz de gambiarrologia em IOT
+- Entusiasta da automação (eu tenho uma casa quase inteligente)
+- Nerd com ascendente em Geek.
+
+Cuiriosidede:
+
+ Tenho um servidor (Home Lab) chamado Kobayashi-Maru, e como sistema operacinal uso ProxMox. Nele atualmente está rodando:
+ - Home Assistant (cerebro da minha casa)
+ - PiHole (bloqueador de anúncios a nivel de DNS com firewall)
+ - pfSense (firewall e/ou roteador de redes, onde divido as redes para os equipamentos IoT, escritório, e rede da casa)
+ - LAMP (Bom, testes precisam ser feito antes de enviar para produção né!)
+ 
+ Foi legal montar esse servidor do zero, foi uma excelente experiência e como bônus ganhei varias nova skills.
+Acho que isso é tudo, até mais, <br>
+
+"Live long and prosper." - Commander Spock 
+##
 <div align="center">
   <a href="https://github.com/renanmurtha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanmurtha&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
@@ -24,8 +47,7 @@
   ##
  
 <div>
-  <a href="https://www.linkedin.com/in/renan-murtha-54737184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+  <a href="https://www.linkedin.com/in/renan-murtha-54737184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "https://gitlab.com/renan.murtha" target="_blank"><img src="https://img.shields.io/badge/-gitlab-191970?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"/></a> 
   
   <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
